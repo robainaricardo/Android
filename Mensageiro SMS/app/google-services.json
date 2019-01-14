@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "441579716436",
+    "firebase_url": "https://mensageiro-5619e.firebaseio.com",
+    "project_id": "mensageiro-5619e",
+    "storage_bucket": "mensageiro-5619e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441579716436:android:7c50f1b8cfda9e10",
+        "android_client_info": {
+          "package_name": "com.dev.ric.mensageiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441579716436-isc1oemrjbd3hgajor8lj3fdf8g0cdfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.ric.mensageiro",
+            "certificate_hash": "c7eff3f815d94ea100d7a87d481e08a5e5aeb108"
+          }
+        },
+        {
+          "client_id": "441579716436-a4e1emppbtvmbbcepjsna2seaijjreiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOjy7gFC-t97ZDRVRnjTkMtoczoJ1aCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441579716436-a4e1emppbtvmbbcepjsna2seaijjreiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
